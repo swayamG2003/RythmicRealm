@@ -29,7 +29,7 @@ function Sidebar() {
           </li>
           <li>
             <Link
-              to="#"
+              to="/liked"
               className="py-2 px-6 flex items-center group text-sm text-gray-500 font-semibold hover:text-white"
             >
               <span className="w-6 h-6 flex items-center justify-center mr-4 bg-gradient-to-br from-purple-700 text-white rounded-sm to-blue-300 opacity-70 group-hover:opacity-100">
