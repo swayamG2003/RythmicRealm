@@ -16,6 +16,7 @@ function App() {
             <Routes>
               <Route exact path="/" element={<HomePage />}></Route>
               <Route exact path="/search" element={<SearchPage />}></Route>
+              <Route exact path="/liked" element={<LikedSongsPage />} />
             </Routes>
           </div>
           <BottomBar />
